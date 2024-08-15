@@ -1,0 +1,16 @@
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+.navbar-nav .nav-item .dropdown-menu {
+    margin-top: 0.5rem;
+}
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    width: 100%;
+}
+.btn{
+    background-color: aqua;
+}
